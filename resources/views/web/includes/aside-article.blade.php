@@ -43,6 +43,6 @@
     <div class="contact_shape_bg ttm-bgcolor-darkgrey text-center">
         <h4>Cómo podemos ayudar</h4>
         <p>Si necesita ayuda, no dude en contactarnos.</p>
-        <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-fill ttm-btn-color-skincolor wsp" href="https://wa.me/51972419891" target="_blank"><i class="fa fa-whatsapp"></i> WhatsApp</a>
+        <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-fill ttm-btn-color-skincolor wsp" href="https://wa.me/51965059553" target="_blank"><i class="fa fa-whatsapp"></i> WhatsApp</a>
     </div>
 </aside>

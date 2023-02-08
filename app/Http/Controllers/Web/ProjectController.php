@@ -47,4 +47,8 @@ class ProjectController extends Controller
     {
         return view ('web.projects.nbjconstructora');
     }
+    public function refriconfort()
+    {
+        return view ('web.projects.refriconfort');
+    }
 }

@@ -44,7 +44,7 @@ class PageController extends Controller
 
         ]);
 //        ventas@importadoraquimicajys.com
-        $emails = ['info@companyccym.com'];
+        $emails = ['info@ccentercompany.com'];
         $mail = new GeneralContactForm($request->all());
         Mail::to($emails)->send($mail);
 

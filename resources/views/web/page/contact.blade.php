@@ -112,7 +112,7 @@
                             <div class="featured-title">
                                 <h5>Correo</h5>
                             </div>
-                            <div class="featured-desc">info@companyccym.com<br>roel@companyccym.com</div>
+                            <div class="featured-desc">info@ccentercompany.com<br>roel@ccentercompany.com</div>
                         </div>
                     </div><!-- featured-icon-box end-->
                 </div>

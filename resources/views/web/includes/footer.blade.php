@@ -71,7 +71,7 @@
         <div class="container">
             <div class="row copyright">
                 <div class="col-md-8">
-                    <span>2023&nbsp;<a href="htpps://www.ccentercompany.com">Ccenter Company</a> . Creado por&nbsp;<a href="http://companyccym.com/acerca-de-roel-ccente-galicio">Virgilio Ccente G.</a></span>
+                    <span>2023&nbsp;<a href="htpps://www.ccentercompany.com">Ccenter Company </a> . Creado por&nbsp;<a href="http://ccentercompany.com/acerca-de-roel-ccente-galicio">Virgilio Ccente G.</a></span>
                 </div>
                 <div class="col-md-4">
                     <div id="menu-footer-menu" class="d-flex align-items-center justify-content-end">

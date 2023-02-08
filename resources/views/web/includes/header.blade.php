@@ -106,7 +106,7 @@
                             <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-skincolor ttm-icon_element-size-xs ttm-icon_element-style-rounded mb-0">
                                 <i class="fa fa-phone"></i>
                             </div>
-                            <div class="pl-2 ttm-textcolor-white">+51 979 880 443</div>
+                            <div class="pl-2 ttm-textcolor-white">+51 965 059 553</div>
                         </div>
                     </div>
                 </div><!-- site-navigation end-->

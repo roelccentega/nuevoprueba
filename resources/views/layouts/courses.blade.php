@@ -29,8 +29,8 @@
     <meta name="twitter:description"
           content="Somos Expertos en Diseño Web, Desarrollo de sistemas, Aplicaciones Web y Posicionamiento SEO. Creamos páginas modernas y optimizadas. Mejoramos su posicionamiento web en buscadores, ayudando a nuestros clientes que sus páginas lleguen al TOP 10 de Google."/>
     <meta name="twitter:image" content="@yield('image', 'https://www.companyccym.com/assets/images/welcome.jpg')"/>
-    <link rel="canonical" href="https://www.companyccym.com"/>
-    <link rel="author" href="https://www.companyccym.com"/>
+    <link rel="canonical" href="https://www.ccentercompany.com"/>
+    <link rel="author" href="https://www.ccentercompany.com"/>
 
     <!-- BEGIN: Vendor CSS-->
     <link rel="stylesheet" type="text/css" href="{{asset('courses/app-assets/vendors/css/vendors.min.css')}}">

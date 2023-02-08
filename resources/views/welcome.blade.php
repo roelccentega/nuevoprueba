@@ -445,7 +445,7 @@
                                             <h5>Desarrollo de Páginas Web Profesional</h5>
                                         </div>
                                         <div class="featured-desc">
-                                            <p>Al ser expertos en posicionamiento web, las páginas web que Company CcyM desarrolla no sólo son atractivas para sus usuarios, sino también para Google.</p>
+                                            <p>Al ser expertos en posicionamiento web, las páginas web que Ccenter Company desarrolla no sólo son atractivas para sus usuarios, sino también para Google.</p>
                                         </div>
                                         <div class="ttm-di_links">
                                             <a href="{{url('/servicios/desarrollo-web')}}" class="di_link"><i class="ti ti-plus"></i></a>
@@ -681,7 +681,7 @@
                                         <!-- section title -->
                                         <div class="section-title">
                                             <div class="title-header">
-                                                <h5>Company CcyM</h5>
+                                                <h5>Ccenter Company</h5>
                                                 <h2 class="title">Sobre Nosotros</h2>
                                             </div>
                                             <div class="heading-seperator"><span></span></div>
