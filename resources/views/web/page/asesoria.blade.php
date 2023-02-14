@@ -165,7 +165,7 @@
                         </div><!-- section title end -->
                         <div class="col-12 p-0">
                             <h4>¿No estás seguro si realmente te puedo ayudar?</h4>
-                            <p>Si tienes una duda muy particular o relativamente compleja, <a href="http://wa.me/51972419891" target="_blank" style="color: #29c1aa;font-weight: 600">escríbeme un mensaje</a> para confirmarte si puedo ayudarte, o de caso contrario, recomendarte a algún colega especializado en el tema que estás aprendiendo.</p>
+                            <p>Si tienes una duda muy particular o relativamente compleja, <a href="http://wa.me/51965059553" target="_blank" style="color: #29c1aa;font-weight: 600">escríbeme un mensaje</a> para confirmarte si puedo ayudarte, o de caso contrario, recomendarte a algún colega especializado en el tema que estás aprendiendo.</p>
                             <h4>¿Y si el tiempo nos queda corto?</h4>
                             <p>Mi intención es ayudarte a <b>resolver </b>tus dudas de forma bien puntual, para que puedas continuar aprendiendo / desarrollando tu proyecto.</p>
                             <p>Puedes comentarme de forma general qué necesitas para estimar el tiempo que nos podría llevar.</p>
