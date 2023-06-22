@@ -57,7 +57,7 @@
                         <h3 class="widget-title">Contáctenos</h3>
                         <p>Ponte en contacto con nosotros para cualquier tipo de consulta.</p>
                         <ul class="widget_contact_wrapper">
-                            <li><i class="ttm-textcolor-skincolor fa fa-phone"></i>(+51) 965059553</li>
+                            <li><i class="ttm-textcolor-skincolor fa fa-phone"></i>(+51) 966 176 059</li>
                         
                             <li><i class="ttm-textcolor-skincolor fa fa-envelope-o"></i><a href="mailto:info@example.com">info@ccentercompany.com</a></li>
                             <li><i class="ttm-textcolor-skincolor fa fa-map-marker"></i>Digital</li>

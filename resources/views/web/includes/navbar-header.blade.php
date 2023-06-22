@@ -40,7 +40,7 @@
     <li class="dropdown dropdown-user nav-item"><a class="dropdown-toggle nav-link dropdown-user-link"
                                                    href="{{url('/')}}" title="Ccenter Company - Expertos en Desarollo" data-toggle="dropdown">
             <div class="user-nav d-sm-flex "><span class="user-name">Ccenter Company</span><span
-                        class="user-status text-muted">Roel Ccente G.</span></div>
+                        class="user-status text-muted">Virgilio Ccente G.</span></div>
             <span><img class="round"
                        src="{{asset('/courses/app-assets/images/portrait/small/avatar-s-11.jpg')}}"
                        alt="avatar" height="40" width="40"></span></a>
