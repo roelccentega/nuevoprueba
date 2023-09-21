@@ -42,6 +42,8 @@
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
 
+    <meta name="facebook-domain-verification" content="89lhzqoo9zmltmeq4gnm9osjowd5j5" />
+
 </head>
 
 <body>
